@@ -17,6 +17,7 @@
 
 ### Feature Extraction
 - Extracting facial features using OpenCV.
+- Extracting facial features using Wavelet transform.
 
 ### Training the Model
 - **Algorithm:** Support Vector Machine (SVM).
